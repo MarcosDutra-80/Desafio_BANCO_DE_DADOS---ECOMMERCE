@@ -44,9 +44,13 @@ Este projeto consiste no design e implementação de um banco de dados relaciona
 
 ---
 
+## ⚠️ Observação
+
+Todos os dados utilizados neste projeto são fictícios e foram criados unicamente para fins acadêmicos.
+Nenhuma informação pessoal, comercial ou sensível real está sendo usada ou representada.co
+
 ## 🚀 Como Executar
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seuusuario/projeto-ecommerce-db.git
-   cd projeto-ecommerce-db
+   git clone https://github.com/MarcosDutra-80/Desafio_BANCO_DE_DADOS---ECOMMERCE.git
